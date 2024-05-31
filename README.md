@@ -10,7 +10,7 @@ Sets up a sample Azure OpenAI infrastructure project with security considered
 
 This project framework provides the following features:
 
-- Sets up app service, Azure OpenAI service, cognitive search service, private endpoint, and VNet
+- Sets up app service, Azure OpenAI Service, cognitive search service, private endpoint, and VNet
 
 ## Getting Started
 
